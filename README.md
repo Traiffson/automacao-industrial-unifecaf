@@ -1,11 +1,11 @@
 # automacao-industrial-unifecaf
 Trabalho Unifecaf 
-"""
+
 Desafio de Automação Digital: Gestão de Peças, Qualidade e Armazenamento
 Disciplina: Algoritmos e Lógica de Programação - UniFECAF
 
 Sistema de controle de produção e qualidade industrial
-"""
+
 
 # Configurações das regras de qualidade
 PESO_MIN = 95
