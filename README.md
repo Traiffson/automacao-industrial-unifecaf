@@ -1,5 +1,5 @@
 # automacao-industrial-unifecaf
-Trabalho Unifecaf 
+Projeto Unifecaf 
 
 Desafio de Automação Digital: Gestão de Peças, Qualidade e Armazenamento
 Disciplina: Algoritmos e Lógica de Programação - UniFECAF
